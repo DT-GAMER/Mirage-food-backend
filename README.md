@@ -1,4 +1,4 @@
-# TEAM MIRAGE
+# MIRAGE FOOD 
 
 # Setup, Installation and Contribution Instructions
 
